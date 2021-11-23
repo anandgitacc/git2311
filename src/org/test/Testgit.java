@@ -12,6 +12,11 @@ public class Testgit {
 		System.out.println("8939278836");
 	}
 	
+	private void empCompany() {
+		
+		System.out.println("Greens");
+	}
+	
 	public static void main(String[] args) {
 		
 		Testgit t = new Testgit();
